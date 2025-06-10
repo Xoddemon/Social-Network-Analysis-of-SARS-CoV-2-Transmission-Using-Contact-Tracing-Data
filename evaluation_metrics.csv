@@ -1,0 +1,10 @@
+Metric,Value
+Network Density,0.020983178317831783
+Average Path Length,1.9935618761876188
+Clustering Coefficient,0.042555468634480044
+Precision,0.1
+Recall,1.0
+F1 Score,0.18181818181818182
+Reproduction Number R0,19.0
+Mean Squared Error,0.0516
+Correlation with Real Data,0.010270058719742107
